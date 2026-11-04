@@ -1,0 +1,6 @@
+AuthName "Astrotomography II - Authors page"
+AuthType Basic
+
+AuthUserFile /home/hboffin/.webauth/dopacc
+
+require valid-user
